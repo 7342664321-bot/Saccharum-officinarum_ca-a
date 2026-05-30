@@ -1,0 +1,8 @@
+---
+title: "cultivo"
+---
+
+::::::: {style="text-align: center;"}
+## UNIVERSIDAD NACIONAL TORIBIO RODRÍGUEZ DE MENDOZA DE AMAZONAS
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/95/Logo-2016-solo-ok.png){width="4.8cm"}

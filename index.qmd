@@ -1,0 +1,58 @@
+---
+title: "*"
+---
+
+:::::: {style="text-align: center;"}
+## UNIVERSIDAD NACIONAL TORIBIO RODRÍGUEZ DE MENDOZA DE AMAZONAS
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/95/Logo-2016-solo-ok.png){width="4.8cm"}
+
+## FACULTAD DE INGENIERÍA Y CIENCIAS AGRARIAS
+
+## ESCUELA PROFESIONAL DE INGENIERÍA AGRÓNOMA
+
+## Manejo Agronómico del cultivo de caña (*Saccharum oficinarum)*
+
+<br>
+
+::: {style="text-align: center;"}
+# INTEGRANTES
+:::
+
+<br>
+
+| Integrante                       | \% de participación |
+|----------------------------------|---------------------|
+| Huaman Rimarachin, Milver        | 100%                |
+| Sanchez Alvarado, Ruben          | 100%                |
+| Colunche Vasquez, Josue Jhonatan | 100%                |
+| Ramires Reap Neider              | 100%                |
+| Tapia Chavarri, Emely            | 100%                |
+
+::: {style="width: 60%; margin: auto; background-color: #f3f3f3; padding: 20px; border-radius: 12px; text-align: center; font-size: 18px;"}
+:::
+
+<br>
+
+![](images/group_6.jfif){fig-align="center"}
+
+::: {style="text-align: center;"}
+## DOCENTE
+
+Dr. Jheiner Vásquez García
+
+<br>
+
+## CURSO
+
+Cultivos Tropicales
+
+<br>
+
+## CICLO ACADÉMICO
+
+2026 - I
+:::
+::::::
+
+![](https://yoel7576.github.io/Semillas_UIII/images/untrm.jpeg){fig-align="center"}
